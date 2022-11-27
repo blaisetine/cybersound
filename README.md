@@ -1,7 +1,5 @@
 # Cybersound
 
-# slamdunk
-
 My music application written in Pascal during childhood.
 
 The operating system is MS DOS, so this is running under emulation.
